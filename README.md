@@ -1,14 +1,4 @@
----
-layout: "post"
-title: "Introduction to C++ Notes"
-date: 2025-04-09
-categories: ["C++"]
-tags: ["C++", "Introduction", "Performance", "Development", "Programming"]
-description: "An introductory overview of the C++ notes repository, emphasizing the language's power and performance."
-author: "Vaibhav Deokar"
-image: "/notes/cpp/img-data/cpp_thumbnail.jpg"
-published: true
----
+
 ## 🚀 Dive Deep into C++ <br /> 🎮 [Unleash Your Dev Potential! ▶️](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) 
 
 C++ is the powerhouse language for serious development. 💥 Its unmatched performance, stemming from direct hardware control, gives you the edge to create lightning-fast, visually stunning, and incredibly responsive graphics. ⚡ Think of it as crafting a high-performance engine – you're not just assembling pre-made parts, you're working with raw materials, meticulously optimizing every component for maximum speed and efficiency. 🏎️
